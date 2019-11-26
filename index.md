@@ -1,3 +1,5 @@
+<!DOCTYPE html>
+<html lang="em">
 <title>Aidan McMurray's IGME 110 Video</title>
     <body>
         <text>
@@ -6,3 +8,5 @@
     <footer>
         <p><a href="FireAd.html">Ad</a></p>
     </footer>
+    </body>
+</html>
